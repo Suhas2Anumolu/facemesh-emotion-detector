@@ -14,7 +14,17 @@ This project performs real-time facial landmark detection and emotion recognitio
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
-python3 -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
-pip install -r requirements.txt
+
+2. Create and activate a Python virtual environment (recommended):
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # Linux/Mac
+   venv\Scripts\activate     # Windows
+   pip install -r requirements.txt
+   
+3. Install required packages:
+   ```bash
+   pip install -r requirements.txt
+Run the main script:
+   ```bash
+    python main.py
