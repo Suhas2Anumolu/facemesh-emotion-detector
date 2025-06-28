@@ -28,3 +28,8 @@ This project performs real-time facial landmark detection and emotion recognitio
 4. Run the main script:
    ```bash
     python main.py
+
+## Demo Video
+
+<iframe src="[https://drive.google.com/uc?export=preview](https://drive.google.com/file/d/1q2DAg0kSzl4mvJQZQjmqH1EBf2GtB814/view?t=9)&id=FILE_ID" width="640" height="480" allow="autoplay"></iframe>
+
