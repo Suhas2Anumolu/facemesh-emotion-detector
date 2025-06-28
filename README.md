@@ -25,6 +25,6 @@ This project performs real-time facial landmark detection and emotion recognitio
 3. Install required packages:
    ```bash
    pip install -r requirements.txt
-Run the main script:
+4. Run the main script:
    ```bash
     python main.py
